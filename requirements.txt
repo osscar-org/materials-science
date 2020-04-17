@@ -8,3 +8,4 @@ nglview==2.7.5
 ase==3.19.1
 pythreejs==2.2.0 
 bqplot==0.12.6 
+sklearn
