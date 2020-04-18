@@ -1,4 +1,4 @@
-jupyterlab==2.1.0
+jupyterlab==1.2.6
 ipywidgets==7.5.0
 numpy==1.18.2
 appmode==0.7.0
