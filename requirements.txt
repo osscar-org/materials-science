@@ -9,3 +9,4 @@ ase==3.19.1
 pythreejs==2.2.0 
 bqplot==0.11.9
 sklearn
+ipympl==0.3 
