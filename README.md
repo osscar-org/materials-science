@@ -10,7 +10,7 @@ This git repository contains the Jupyter notebooks for this course. Here is a ta
 
 | Name       | Description           | Notebook links  | Binder |
 | ------------- |:-------------:| -----:| -----:|
-| Lennard Jones | A tutorial of the Lennard Jones (LJ) potential. | [Lennard Jones](./notebook/LennardJones.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FLennardJones.ipynb) |
+| Lennard Jones | A tutorial of the Lennard Jones (LJ) potential. | [Lennard Jones](./notebook/Lennard_Jones.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FLennard_Jones.ipynb) |
 | Miller Index | Widgets to demonstrate the Miller index. | [Miller Index](./notebook/Miller_Index.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FMiller_Index.ipynb) |
 | Molecular Structure | A notebook to show the FCC, BCC and simple cubic structures. | [Molecular Structure](./notebook/Molecular_Structure.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FMolecular_Structure.ipynb) |
 
