@@ -14,9 +14,8 @@ This git repository contains the Jupyter notebooks for this course. Here is a ta
 | Miller Index | Widgets to demonstrate the Miller index. | [Miller Index](./notebook/Miller_Index.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FMiller_Index.ipynb) |
 | Molecular Structure | A notebook to show the FCC, BCC and simple cubic structures. | [Molecular Structure](./notebook/Molecular_Structure.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/MSE101/master?urlpath=%2Fapps%2Fnotebook%2FMolecular_Structure.ipynb) |
 
-## Acknowlegements
+# Acknowledgements
 
-We acknowledge support from:
-* EPFL Open Science Fund
+We acknowledge support from the EPFL Open Science Fund via the [OSSCAR](http://www.osscar.org) project.
 
-<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='240'>
+<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='230'>
