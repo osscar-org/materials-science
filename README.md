@@ -1,4 +1,4 @@
-# Materials:from chemistry to properties (MSE101)
+# **Materials Science**
 
 **Course description**: This course allows the acquisition of essential concepts relating to the structure of materials, chemical equilibrium and reactivity in connection with the mechanical, thermal, electrical, magnetic and optical properties of materials.
 
