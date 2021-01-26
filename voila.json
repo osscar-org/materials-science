@@ -1,0 +1,15 @@
+{
+  "VoilaConfiguration": {
+    "enable_nbextensions": true,
+    "template": "osscar",
+    "strip_sources": true
+  },
+  "VoilaExecutePreprocessor": {
+    "timeout": 180
+  },
+  "MappingKernelManager": {
+    "cull_idle_timeout": 900,
+    "cull_interval": 60,
+    "cull_busy": true
+  }
+}
