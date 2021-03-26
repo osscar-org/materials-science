@@ -1,6 +1,7 @@
+pip==21.0.1
 numpy==1.18.5
-voila==0.2.6
+voila==0.2.7
 voila-osscar-template==0.2.8 
-pythreejs==2.2.1  
-bqplot==0.12.17
+pythreejs==2.3.0 
+bqplot==0.12.23
 sklearn
