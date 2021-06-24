@@ -1,7 +1,7 @@
 pip==21.0.1
 numpy==1.18.5
-voila==0.2.7
-voila-osscar-template==0.2.8 
+voila==0.2.9
+voila-osscar-template==0.2.9 
 pythreejs==2.3.0 
 bqplot==0.12.23
 sklearn
