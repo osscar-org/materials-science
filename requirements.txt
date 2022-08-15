@@ -1,5 +1,5 @@
 pip==21.2.4
-numpy==1.21.2
+numpy==1.23.2
 voila==0.3.5
 osscar-voila==0.2.10.a6
 voila-osscar-template==0.2.10
