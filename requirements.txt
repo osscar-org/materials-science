@@ -4,5 +4,5 @@ voila==0.3.5
 osscar-voila==0.2.10.a6
 voila-osscar-template==0.2.10
 pythreejs==2.3.0 
-bqplot==0.12.31
+bqplot==0.12.34
 sklearn
