@@ -5,4 +5,4 @@ osscar-voila==0.2.10.a6
 voila-osscar-template==0.2.10
 pythreejs==2.3.0 
 bqplot==0.12.31
-sklearn
+ipywidgets==7.6.5
