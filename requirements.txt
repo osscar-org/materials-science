@@ -7,3 +7,4 @@ pythreejs==2.3.0
 bqplot==0.12.31
 ipywidgets==7.6.5
 scikit-learn
+lxml-html-clean~=0.4.2
